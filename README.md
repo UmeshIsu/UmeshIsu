@@ -27,4 +27,6 @@
 
 ![UmeshIsu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmeshIsu&theme=tokyonight&hide_border=true)
 
+[![An image of @umeshisu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umeshisu)](https://holopin.io/@umeshisu)
+
 ![](https://komarev.com/ghpvc/?username=UmeshIsu&color=blue)
