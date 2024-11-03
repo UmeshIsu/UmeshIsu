@@ -1,31 +1,57 @@
-<h1 align="center">Hello👋, I'm Umesh Isuranaga</h1>
-<img alt = "Banner"src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
-<h3 align="center"><b>A passionate frontend and python developer from Srilanka.</b></h3>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Umesh Isuranga</h1>
+<h3 align="center">A passionate frontend and python developer from Srilanka</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript and UI/UX**
 
-- 💬 Ask me about **UI/UX, python**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=umeshisu&label=Profile%20views&color=0e75b6&style=flat" alt="umeshisu" /> </p>
 
-- 📫 How to reach me **umeshisuranga414@gmail.com**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  <h2>👨🏻‍💻 &nbsp;About Me</h2>
 
-- ⚡ Fun fact **More than 80% of the emails sent daily are spams.**
+ - 🌱 I’m currently learning **JavaScript, MERN, Java**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/umesh-isuranga-9894b42b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh isuranga" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100093542345130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umesh isuranga" height="30" width="40" /></a>
-<a href="https://instagram.com/_whois_umesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_whois_umesh" height="30" width="40" /></a> 
+ - 💬 Ask me about **Web Development,python, UI/UX**
+
+ - 📫 How to reach me **umeshisuranga414@gmail.com**
+ 
+ - 🤔 I’m looking for help with Open source Contribution.
+
+ - ⚡ Fun fact **More than 80% of the emails sent daily are spams.**
+</td>
+<td width="50%" align="center">
+  <p><img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /></p>
+</td>
+</tr>
+</table>
+
+<br>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/umesh isuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh isuranga" height="35" width="60" /></a>
+<a href="https://fb.com/umesh isuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umesh isuranga" height="35" width="60" /></a>
+<a href="https://instagram.com/_whois_umesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_whois_umesh" height="35" width="60" /></a>
+<a href="https://www.hackerrank.com/umesh isuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umesh isuranga" height="35" width="60" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-![UmeshIsu's Stats](https://github-readme-stats.vercel.app/api?username=UmeshIsu&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-![UmeshIsu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshIsu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,react,bootstrap,mysql,mongodb,vscode,figma,nodejs" />
+</div>
 
-![UmeshIsu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmeshIsu&theme=tokyonight&hide_border=true)
+<hr/>
 
+<h2 align="center"> <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">GitHub stats:</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshIsu&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=UmeshIsu&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=UmeshIsu&theme=chartreuse-dark"></p>
 
-![](https://komarev.com/ghpvc/?username=UmeshIsu&color=blue)
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+ </div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
