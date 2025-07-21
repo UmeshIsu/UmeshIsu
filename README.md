@@ -8,7 +8,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="100%" align="left">
   <h2>👨🏻‍💻 &nbsp;About Me</h2>
 
  - 🌱 I’m currently learning **JavaScript, MERN, Java**
@@ -20,9 +20,6 @@
  - 🤔 I’m looking for help with Open source Contribution.
 
  - ⚡ Fun fact **More than 80% of the emails sent daily are spams.**
-</td>
-<td width="50%" align="center">
-  <p><img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /></p>
 </td>
 </tr>
 </table>
