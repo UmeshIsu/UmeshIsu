@@ -41,12 +41,12 @@
 
 <h2> <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">GitHub stats:</h2>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshIsu&layout=compact&hide=php,TSQL&theme=chartreuse-dark" width="350">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmeshIsu&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="390">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshIsu&layout=compact&hide=php,TSQL&theme=dark" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmeshIsu&count_private=true&show_icons=true&&theme=dark&include_all_commits=true" width="390">
 </p>
 
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=UmeshIsu&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=UmeshIsu&theme=dark"></p>
 
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
