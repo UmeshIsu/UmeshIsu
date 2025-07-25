@@ -11,7 +11,7 @@
 
   <h2>👨🏻‍💻 About Me</h2>
 
-<p>👨‍💻 I'm an undergraduate Computer Science student passionate about building modern web applications. I specialize in frontend development with React and am currently diving deeper into full-stack technologies like Spring Boot, the MERN stack, and PHP. My goal is to become a versatile full-stack developer. Feel free to reach out at umeshisuranga414@gmail.com — I'm always open to learning and collaborating! </p>
+<p> I'm an undergraduate Computer Science student passionate about building modern web applications. I specialize in frontend development with React and am currently diving deeper into full-stack technologies like Spring Boot, the MERN stack, and PHP. My goal is to become a versatile full-stack developer. Feel free to reach out at umeshisuranga414@gmail.com — I'm always open to learning and collaborating! </p>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h2>
 <p>
