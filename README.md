@@ -45,7 +45,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=UmeshIsu&count_private=true&show_icons=true&&theme=dark&include_all_commits=true" width="390">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=UmeshIsu)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=UmeshIsu&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
 
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
