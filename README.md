@@ -40,15 +40,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshIsu&layout=compact&hide=php,TSQL&theme=dark" width="350">
   <img src="https://github-readme-stats.vercel.app/api?username=UmeshIsu&count_private=true&show_icons=true&&theme=dark&include_all_commits=true" width="390">
 </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=UmeshIsu&theme=dark" alt="GitHub Streak" /></a>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=UmeshIsu&theme=dark" alt="GitHub Streak"/>
-  </a>
-</p>
 
- <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
- </div>
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
