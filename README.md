@@ -1,7 +1,7 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center" >Hi 👋, I'm Umesh Isuranga</h1>
-<h3 align="center">A passionate frontend and python developer from Srilanka</h3>
+<h3 align="center">A Passionate Frontend and Java developer from Srilanka</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umeshisu&label=Profile%20views&color=0e75b6&style=flat" alt="umeshisu" /> </p>
@@ -11,7 +11,7 @@
 
   <h2>👨🏻‍💻 About Me</h2>
 
-<p> I'm an undergraduate Computer Science student passionate about building modern web applications. I specialize in frontend development with React and am currently diving deeper into full-stack technologies like Spring Boot, the MERN stack, and PHP. My goal is to become a versatile full-stack developer. Feel free to reach out at umeshisuranga414@gmail.com — I'm always open to learning and collaborating! </p>
+<p> I am a Computer Science student at IIT with a strong interest in building clean, user-friendly web applications. My main focus is on the Frontend, specifically using React and Tailwind CSS, but I also have hands-on experience with Backend tools like Node.js and Spring Boot. Through hackathons and personal projects, I’ve learned how to build full features from scratch and work well in a team. I’m looking for a Frontend internship where I can use my UI skills while also contributing to the backend when needed. </p>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h2>
 <p>
@@ -35,13 +35,20 @@
 </div>
 <hr/>
 
-<h2> <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">GitHub stats:</h2>
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshIsu&layout=compact&hide=php,TSQL&theme=dark" width="350">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmeshIsu&count_private=true&show_icons=true&&theme=dark&include_all_commits=true" width="390">
-</p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=UmeshIsu&theme=dark" alt="GitHub Streak" /></a>
+<h2><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> GitHub stats:</h2>
 
+<div align="center">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshIsu&layout=compact&hide=php,TSQL&theme=dark" height="200">
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=UmeshIsu&theme=dark" alt="GitHub Streak" />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=UmeshIsu&count_private=true&show_icons=true&theme=dark&include_all_commits=true" height="195">
+  
+  
+  
+  
+</div>
 
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
